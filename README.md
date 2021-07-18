@@ -15,6 +15,6 @@ Started on 28.03.2021
 
 Divided our team into further subsystems. I worked in Music Classification subsystem.
 
-Read research papers to build a model that classifies songs based on moods using the spotify features.
+Read research papers to build a model that classifies songs based on moods using the spotify features. The model we worked on can be found in our team member's repository.
 
 
